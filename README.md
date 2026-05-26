@@ -98,4 +98,4 @@ All queries follow these conventions:
 ---
 
 ## Contact
-For questions about this repository contact [INSERT TEAM / EMAIL].
+For questions about this repository contact [Somenath Sen / somenath@neurodiscovery.ai].
