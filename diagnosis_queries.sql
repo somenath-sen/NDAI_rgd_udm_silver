@@ -3,7 +3,7 @@
 -- TABLE: rgd_udm_silver.diagnosis
 -- DESCRIPTION: All SQL queries used to generate the numbers
 --              in the Diagnosis Data Snapshot (Diagnosis_Snapshot.docx)
--- DATABASE: AWS RDS -- rgd_udm_silver
+-- DATABASE: rgd_udm_silver.diagnosis
 -- ACCESS: MySQL Workbench (via AWS VPN)
 -- ============================================================
 
